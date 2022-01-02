@@ -1,0 +1,9 @@
+POST http://localhost:3000/todo/
+Content-Type: application/json
+
+{
+    "name":"gal",
+"todoText":"sad"
+}
+###
+GET http://localhost:3000/todo/2aee2b15-c3c8-4117-a6bc-f93a875babfa
